@@ -9,3 +9,8 @@
 <img src="./assets/eric.jpg" alt="drawing" width="100"/>
 
 Zhichun Huang joined AI at UW in October, 2017. He is a machine learning enthusiast, a hardcore gamer, and a soda addict. He is the engineering manager for Team Kaggle.
+
+### Head of Business Development
+<img src="./assets/P1000149.JPG" alt="drawing" width="100"/>
+
+Nickolas Comeau joined AI at UW in January, 2018, and was invited to the executive board during the following summer. He is particularly interested in computational biology and exploring machine learning through the lense of neuroscience. His current role in the organization is to assist in the management of a learning group on Tensorflow, assist with general administrative tasks, and explore possible sponsorship and fundraising opportunities.  
